@@ -11,4 +11,4 @@ Dự án xây dựng với mục tiếp áp dụng các kiến thức đã học
 9. Xuất tổng lương toàn công ty
 10. Tìm giám đốc có cổ phần cao nhất
 11. Thoát
-  Chọn chức năng (1-11): 
+  Chọn chức năng (1-10): 
